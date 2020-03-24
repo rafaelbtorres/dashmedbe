@@ -1,2 +1,0 @@
-# dashmedbe
-Dashboard do Medbe
